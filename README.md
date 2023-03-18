@@ -13,19 +13,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hey there, I'm Hovhannes :wave:
-AWS Certified Cloud Developer with a demonstrated history of working in the information technology and software services industry.
+## Hey there, I'm Hovhannes :wave:
+### AWS Certified Cloud Developer with a demonstrated history of working in the information technology and software services industry.
 
-### Watch my contribution graph get eaten by the snake 🐍
+## Watch my contribution graph get eaten by the snake 🐍
 ![snake gif](https://github.com/hovmikayelyan/hovmikayelyan/blob/output/github-contribution-grid-snake.gif)
 
 
-# As Rick once said...I'm a scientist; because I invent, transform, create, and destroy for a living, and when I don't like something about the world, I change it.
+### As Rick once said...I'm a scientist; because I invent, transform, create, and destroy for a living, and when I don't like something about the world, I change it.
 
 :computer: First and foremost, I love writing code.
 🔭 What do I do?<br/>
 
 ✔️I've been developing since the 2018 year using various languages and best development practices.
+
+[![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=hovmikayelyan&layout=compact&theme=gruvbox)](https://github.com/hovmikayelyan/github-readme-stats)
+
 <br/>
 Apart from being an IT Engineer, I enjoy most of my time being outdoors.🌱 
 
@@ -37,8 +40,6 @@ Apart from being an IT Engineer, I enjoy most of my time being outdoors.🌱
 <!-- ### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/hovmikayelyan) -->
-
-[![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=hovmikayelyan&layout=compact&theme=gruvbox)](https://github.com/hovmikayelyan/github-readme-stats)
 
 ### :zap: GitHub Stats
 
