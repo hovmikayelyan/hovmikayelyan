@@ -14,23 +14,22 @@ Here are some ideas to get you started:
 -->
 
 ## Hey there, I'm Hovhannes :wave:
-### AWS Certified Cloud Developer with a demonstrated history of working in the information technology and software services industry.
+### <a target="_blank" href="https://www.credly.com/badges/40df9175-77d0-4f98-991c-5b632d3cba00/public_url"> AWS Certified Cloud Developer </a> with a demonstrated history of working in the information technology and software services industry.
 
 ## Watch my contribution graph get eaten by the snake 🐍
 ![snake gif](https://github.com/hovmikayelyan/hovmikayelyan/blob/output/github-contribution-grid-snake.gif)
 
 
-### As Rick once said...I'm a scientist; because I invent, transform, create, and destroy for a living, and when I don't like something about the world, I change it.
+### As Rick once said... I'm a scientist; because I invent, transform, create, and destroy for a living, and when I don't like something about the world, I change it.
 
 :computer: First and foremost, I love writing code.
 🔭 What do I do?<br/>
 
-✔️I've been developing since the 2018 year using various languages and best development practices.
+✔️ I've been developing since 2018, using various languages and best development practices.
 
 [![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=hovmikayelyan&layout=compact&theme=gruvbox)](https://github.com/hovmikayelyan/github-readme-stats)
 
-<br/>
-Apart from being an IT Engineer, I enjoy most of my time being outdoors.🌱 
+### Apart from being an IT Engineer, I enjoy most of my time being outdoors.🌱 
 
 :snowflake: In the winter, I am an avid skier and novice ice climber. 
 :sunny: During the warmer months here in Armenia, I enjoy swimming, gym, dancing, and mountain biking.
@@ -44,5 +43,7 @@ Apart from being an IT Engineer, I enjoy most of my time being outdoors.🌱
 ### :zap: GitHub Stats
 
 <img alt="hovmikayelyan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hovmikayelyan&show_icons=true&hide_border=true&hide=issues,contribs&hide_title=true" />
+<!-- 
+![Hov's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hovmikayelyan&hide=[%22issues%22,%22contribs%22]&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=hovmikayelyan)
