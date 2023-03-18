@@ -45,8 +45,6 @@ Here are some ideas to get you started:
 
 ### :zap: GitHub Stats
 
-<img alt="hovmikayelyan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hovmikayelyan&show_icons=true&hide_border=true&hide=issues,contribs&hide_title=true" />
-<!-- 
-![Hov's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hovmikayelyan&hide=[%22issues%22,%22contribs%22]&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->
+<img alt="hovmikayelyan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hovmikayelyan&show_icons=true&theme=radical&hide=issues,contribs&hide_title=true" />
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=hovmikayelyan)
