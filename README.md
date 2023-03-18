@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-### <img src="https://images.credly.com/size/10x10/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" >  <a target="_blank" href="https://www.credly.com/badges/40df9175-77d0-4f98-991c-5b632d3cba00/public_url"> AWS Certified Cloud Developer </a> with a demonstrated history of working in the information technology and software services industry.
+###  <a target="_blank" href="https://www.credly.com/badges/40df9175-77d0-4f98-991c-5b632d3cba00/public_url"> <img src="https://images.credly.com/size/10x10/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" >  AWS Certified Cloud Developer </a> with a demonstrated history of working in the information technology and software services industry.
 
 ## Watch my contribution graph get eaten by the snake 🐍
 ![snake gif](https://github.com/hovmikayelyan/hovmikayelyan/blob/output/github-contribution-grid-snake.gif)
