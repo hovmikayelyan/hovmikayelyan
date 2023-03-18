@@ -38,6 +38,8 @@ Apart from being an IT Engineer, I enjoy most of my time being outdoors.🌱
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/hovmikayelyan) -->
 
+[![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=hovmikayelyan&layout=compact&theme=gruvbox)](https://github.com/hovmikayelyan/github-readme-stats)
+
 ### :zap: GitHub Stats
 
 <img alt="hovmikayelyan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hovmikayelyan&show_icons=true&hide_border=true&hide=issues,contribs&hide_title=true" />
