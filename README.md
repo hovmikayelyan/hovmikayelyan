@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 [![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=hovmikayelyan&layout=compact&theme=gruvbox)](https://github.com/hovmikayelyan/github-readme-stats)
 
-### Apart from being an IT Engineer, I enjoy most of my time being outdoors.🌱 
+### Apart from being a DevOps/Software Engineer, I enjoy most of my time being outdoors.🌱 
 
 :snowflake: In the winter, I am an avid skier and novice ice climber. 
 :sunny: During the warmer months here in Armenia, I enjoy swimming, gym, dancing, and mountain biking.
