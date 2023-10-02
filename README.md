@@ -47,4 +47,4 @@ Here are some ideas to get you started:
 
 <img alt="hovmikayelyan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hovmikayelyan&show_icons=true&theme=radical&hide=issues,contribs&hide_title=true" />
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=hovmikayelyan)
+![visitors](https://vbr.wocr.tk/badge?page_id=hovmikayelyan&color=590d22&style=for-the-badge&logo=Github&hit=false)
