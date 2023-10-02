@@ -25,6 +25,14 @@ Here are some ideas to get you started:
 
 ### As Rick once said... I'm a scientist; because I invent, transform, create, and destroy for a living, and when I don't like something about the world, I change it.
 
+
+### 📕 Latest Posts on [<img width="70px" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"/>](https://medium.com/@hovmikayelyan)
+
+<!-- BLOG-POST-LIST:START -->
+- [Cloudflare, ACM, CloudFront, 100 zones, Terraform?](https://medium.com/@hovmikayelyan/cloudflare-acm-cloudfront-100-zones-terraform-35cf9dcd2cba)
+- [Ultimate Automation: from Python to Beyond](https://medium.com/@hovmikayelyan/ultimate-automation-from-python-to-beyond-cf76a614d8fe)
+<!-- BLOG-POST-LIST:END -->
+
 :computer: First and foremost, I love writing code.
 🔭 What do I do?<br/>
 
@@ -32,7 +40,7 @@ Here are some ideas to get you started:
 
 [![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=hovmikayelyan&layout=compact&theme=gruvbox)](https://github.com/hovmikayelyan/github-readme-stats)
 
-### Apart from being a DevOps/Software Engineer, I enjoy most of my time being outdoors.🌱 
+### Apart from being a DevOps | Automation Engineer, I enjoy most of my time being outdoors.🌱 
 
 :snowflake: In the winter, I am an avid skier and novice ice climber. 
 :sunny: During the warmer months here in Armenia, I enjoy swimming, gym, dancing, and mountain biking.
