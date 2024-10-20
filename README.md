@@ -13,11 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hey there, I'm Hov :wave:
+## Hey there, I'm Hovhannes :wave:
 
 
 
-###  <a target="_blank" href="https://www.credly.com/badges/40df9175-77d0-4f98-991c-5b632d3cba00/public_url"> <img src="https://images.credly.com/size/10x10/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" >  AWS Certified Cloud Developer </a> with a demonstrated history of working in the information technology and software services industry.
+###  <a target="_blank" href="https://www.credly.com/badges/233c838d-2349-4868-879d-09d30decca7a/public_url"> <img src="https://images.credly.com/size/10x10/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" >  AWS Certified Solutions Architect </a> with a demonstrated history of working in the information technology and software services industry.
 
 ## Watch my contribution graph get eaten by the snake 🐍
 ![snake gif](https://github.com/hovmikayelyan/hovmikayelyan/blob/output/github-contribution-grid-snake.svg)
@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 ### 📕 Latest Posts on [<img width="70px" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"/>](https://medium.com/@hovmikayelyan)
 
 <!-- BLOG-POST-LIST:START -->
+- [Real-World Cost Optimization Solutions on AWS](https://medium.com/@hovmikayelyan/real-world-cost-optimization-solutions-on-aws-b80838c7a210)
 - [Cloudflare, ACM, CloudFront, 100 zones, Terraform?](https://medium.com/@hovmikayelyan/cloudflare-acm-cloudfront-100-zones-terraform-35cf9dcd2cba)
 - [Ultimate Automation: from Python to Beyond](https://medium.com/@hovmikayelyan/ultimate-automation-from-python-to-beyond-cf76a614d8fe)
 <!-- BLOG-POST-LIST:END -->
@@ -40,10 +41,10 @@ Here are some ideas to get you started:
 
 [![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=hovmikayelyan&layout=compact&theme=gruvbox)](https://github.com/hovmikayelyan/github-readme-stats)
 
-### Apart from being a Site Reliability Engineer, I enjoy most of my time being outdoors.🌱 
+### Apart from being a DevOps Engineer, I enjoy most of my time being outdoors.🌱 
 
 :snowflake: In the winter, I am an avid skier and novice ice climber. 
-:sunny: During the warmer months here in Armenia, I enjoy swimming, gym, dancing, and mountain biking.
+:sunny: During the warmer months here in Armenia, I enjoy swimming, gym, dancing, and hiking.
 
 👯 When forced indoors, I follow a number of sci-fi and fantasy genre movies and television shows, I am an aspiring chef :stew:, and I spend a large amount of my free time exploring the latest technology advancements in the software development world 🌍.
 
