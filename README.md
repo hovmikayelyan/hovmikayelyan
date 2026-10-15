@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-###  <a target="_blank" href="https://www.credly.com/badges/233c838d-2349-4868-879d-09d30decca7a/public_url"> <img src="https://images.credly.com/size/10x10/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" >  AWS Certified Solutions Architect </a> with a demonstrated history of working in the information technology and software services industry.
+###  AWS Certified Solutions Architect </a> with a demonstrated history of working in the information technology and software services industry.
 
 ## Watch my contribution graph get eaten by the snake 🐍
 ![snake gif](https://github.com/hovmikayelyan/hovmikayelyan/blob/output/github-contribution-grid-snake.svg)
